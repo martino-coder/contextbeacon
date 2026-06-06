@@ -7,8 +7,9 @@
 
 ## Current bootstrap state
 
-- Public repository created at `martino-coder/contextbeacon`
-- The repository can be transferred into `contextbeacon-labs` after the organization is created
+- Public repository created and transferred into `ContextBeacon-Labs/contextbeacon`
+- Organization avatar updated to the custom ContextBeacon beacon icon
+- Brand assets live in `assets/contextbeacon-icon.svg` and `assets/contextbeacon-icon.png`
 
 ## Why these names
 
@@ -29,7 +30,8 @@
 
 ## Public launch checklist
 
-- Create the GitHub organization
-- Transfer the public repository into the organization
-- Add a MIT license
-- Add the first issue list for scanner, generator, and linter work
+- [x] Create the GitHub organization
+- [x] Transfer the public repository into the organization
+- [x] Add a MIT license
+- [x] Upload a custom organization icon
+- [ ] Add the first issue list for scanner, generator, and linter work

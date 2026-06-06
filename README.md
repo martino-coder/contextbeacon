@@ -1,8 +1,17 @@
+![ContextBeacon icon](./assets/contextbeacon-icon.png)
+
 # ContextBeacon
 
 Local-first repository intelligence for coding agents.
 
 ContextBeacon turns a codebase into an agent-ready package: a compact repo map, the key entry points, the relevant dependencies, and the docs an AI assistant needs before it starts editing.
+
+## Current status
+
+- GitHub organization: `ContextBeacon-Labs`
+- Public repository: `ContextBeacon-Labs/contextbeacon`
+- Organization avatar: custom beacon mark
+- Brand assets: `assets/contextbeacon-icon.svg` and `assets/contextbeacon-icon.png`
 
 ## Why this exists
 
@@ -51,4 +60,3 @@ The first useful contributions are:
 ## License
 
 MIT
-
