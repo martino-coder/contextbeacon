@@ -5,6 +5,11 @@
 - Organization: `contextbeacon-labs`
 - Repository: `contextbeacon`
 
+## Current bootstrap state
+
+- Public repository created at `martino-coder/contextbeacon`
+- The repository can be transferred into `contextbeacon-labs` after the organization is created
+
 ## Why these names
 
 - `ContextBeacon` is readable and matches the product.
@@ -25,7 +30,6 @@
 ## Public launch checklist
 
 - Create the GitHub organization
-- Push the repository as public
+- Transfer the public repository into the organization
 - Add a MIT license
 - Add the first issue list for scanner, generator, and linter work
-
